@@ -9,5 +9,13 @@ Many thanks to wadedos for the https://github.com/wadedos/ExtPlaneJs Java implem
 
 
 
-Planed:
+### Planed: ###
 - Autopilot
+
+### Hardware ###
+
+* https://www.tinkerforge.com/de/shop/master-brick.html
+* https://www.tinkerforge.com/de/shop/bricklets/human-input/rotary-encoder-v2-bricklet.html
+* https://www.tinkerforge.com/de/shop/bricklets/lcd-led-sound/segment-display-4x7-v2-bricklet.html
+* https://www.tinkerforge.com/de/shop/bricklets/io/io4-v2-bricklet.html (for buttons and switches)
+* (https://www.tinkerforge.com/de/shop/bricklets/human-input/rgb-led-button-bricklet.html - possible for buttons)
