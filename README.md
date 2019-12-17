@@ -5,3 +5,7 @@ This is a integration von XPLANE 11 and the FlightFactor A320 Ultimate based on 
 
 Many thanks to wadedos for the https://github.com/wadedos/ExtPlaneJs Java implementation of extPlane and to vranki for extPlane https://github.com/vranki/ExtPlane it self.
 
+
+
+Planed:
+- Autopilot
